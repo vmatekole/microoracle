@@ -24,4 +24,4 @@
 .idea/
 tmp/
 bin/data/mongo-bigchaindb
-eth/build
+ethereum/build
